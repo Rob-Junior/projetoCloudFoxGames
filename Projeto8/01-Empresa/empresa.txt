@@ -1,0 +1,5 @@
+A Cloud Fox Games é uma empresa fictícia brasileira dedicada ao desenvolvimento de jogos digitais independentes. Suas atividades incluem a criação de propriedades intelectuais próprias e a prestação de serviços para terceiros, como co-desenvolvimento, consultoria técnica e apoio à produção de jogos.
+
+A operação depende da colaboração entre profissionais de programação, game design, arte, animação, áudio, qualidade, marketing, administração e negócios. Por isso, a infraestrutura computacional precisa apoiar o desenvolvimento dos jogos, o armazenamento e compartilhamento de arquivos, a comunicação interna, a proteção de informações e a continuidade das atividades.
+
+Para fins deste projeto acadêmico, a empresa possui 57 colaboradores e funcionará em um único edifício organizado em quatro pavimentos no total.
